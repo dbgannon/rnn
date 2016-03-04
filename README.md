@@ -6,6 +6,6 @@ rnn-experiments-for-github.ipynb -- a ipython notebook that explores the embeddi
 
 rnn-lstm-for-github.ipynb -- an ipython notebook that demonstrates the financial news halucinator.
 
-model.zip  -- the model data file from running the cntk example.
+The model data is stored in oneDrive.   Here is a link http://1drv.ms/1SmzzB2   (it is 50MB so too big to upload to github.)
 
 The second set of files relate to the tensowflow french translator example.
